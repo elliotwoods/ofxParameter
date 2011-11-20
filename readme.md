@@ -1,6 +1,6 @@
 # Introduction
 
-Test of the ofParameter concept:
+Test of the ofParameter concept discussed at http://forum.openframeworks.cc/index.php?topic=7795.0
 
 * ofxParameter
  * Problem
