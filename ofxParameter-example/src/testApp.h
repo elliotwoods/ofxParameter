@@ -1,6 +1,13 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxParameter.h"
+
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <algorithm>
+#include <iterator>
 
 class testApp : public ofBaseApp{
 
